@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8406283A1EB50672007B71E8 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840628391EB50672007B71E8 /* File.swift */; };
 		844B67471E5B41610089EB83 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 844B67461E5B41610089EB83 /* AppDelegate.swift */; };
 		844B67491E5B41610089EB83 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 844B67481E5B41610089EB83 /* ViewController.swift */; };
 		844B674C1E5B41610089EB83 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 844B674A1E5B41610089EB83 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		840628391EB50672007B71E8 /* File.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 		844B67431E5B41610089EB83 /* Game1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Game1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		844B67461E5B41610089EB83 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		844B67481E5B41610089EB83 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				844B674D1E5B41610089EB83 /* Assets.xcassets */,
 				844B674F1E5B41610089EB83 /* LaunchScreen.storyboard */,
 				844B67521E5B41610089EB83 /* Info.plist */,
+				840628391EB50672007B71E8 /* File.swift */,
 			);
 			path = Game1;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				844B67491E5B41610089EB83 /* ViewController.swift in Sources */,
+				8406283A1EB50672007B71E8 /* File.swift in Sources */,
 				844B67471E5B41610089EB83 /* AppDelegate.swift in Sources */,
 				844B67591E5B429E0089EB83 /* ViewController2.swift in Sources */,
 			);
@@ -301,6 +305,7 @@
 				844B67571E5B41610089EB83 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
